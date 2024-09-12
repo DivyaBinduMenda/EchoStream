@@ -11,8 +11,8 @@
 	<groupId>com.kodnest</groupId>
 	<artifactId>springboot1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ProjectTuneHub</name>
-	<description>TuneHub is a fullstack web project created using sprig boot my sql,thymeleaf</description>
+	<name>ProjectEchoStream</name>
+	<description>EchoStream is a fullstack web project created using sprig boot my sql,thymeleaf</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
